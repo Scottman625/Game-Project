@@ -27,5 +27,8 @@ var $plugins =
 {"name":"AkeaCustomGauges","status":false,"description":"Akea Custom Gauges version: 1.0.0","parameters":{"actingGauge":"true","removeMenu":"","actorConfig":"","enemyConfig":"","gaugeConfig":""}},
 {"name":"AkeaTeamSkill","status":false,"description":"Akea Team Battle Skill","parameters":{"Team Skills Configuration":"","learnSkill":"true"}},
 {"name":"AkeaToggleTargets","status":false,"description":"Akea Toggle Targets version: 1.0.0","parameters":{"toggleSkills":""}},
-{"name":"AkeaVisualWeapons","status":false,"description":"[v1.0.0] Use custom graphics for each weapon in battle.","parameters":{"weaponSettings":""}}
+{"name":"AkeaVisualWeapons","status":false,"description":"[v1.0.0] Use custom graphics for each weapon in battle.","parameters":{"weaponSettings":""}},
+{"name":"Ryo_PotentialTree","status":false,"description":"天赋点系统。","parameters":{"Point X":"933","Point Y":"47","Name X":"150","Name Y":"490","Skill Type Layout X":"100","Skill Type Layout Y":"180","Skill Type Name X":"100","Skill Type Name Y":"180","Skill Type 2 X":"200","Skill Type 2 Y":"400","Skill Icon X":"150","Skill Icon Y":"543","Skill Name X":"200","Skill Name Y":"535","Actor X":"600","Actor Y":"54"}},
+{"name":"TextPicture","status":true,"description":"Displays text as a picture.","parameters":{}},
+{"name":"Bird_MultipleBackpacks","status":true,"description":"(v1.0.2) 簡易多背包插件。","parameters":{"default_name":"0"}}
 ];
